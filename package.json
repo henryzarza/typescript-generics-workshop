@@ -97,8 +97,6 @@
     "s-30": "tt-cli run 30 --solution",
     "e-32": "tt-cli run 32",
     "s-32": "tt-cli run 32 --solution",
-    "e-33": "tt-cli run 33",
-    "s-33": "tt-cli run 33 --solution",
     "e-34": "tt-cli run 34",
     "s-34": "tt-cli run 34 --solution",
     "e-29.2": "tt-cli run 29.2",
